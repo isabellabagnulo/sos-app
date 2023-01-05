@@ -1,0 +1,28 @@
+{
+    "emergengy": "Emergency",
+    "contact": "Contacts",
+
+    "position": "Your position",
+    "emergencyContact": "Your emergency contacts",
+
+    "addEmergencyContact": "You can add up to 5 emergency contacts",
+    "addContact": "Add contacts",
+    "sendSOS": "Send SOS",
+    "infoButton": "Pressing the button will immediately send an SOS to the selected contacts",
+    "modalMessage": "Message sent correctly",
+    "modalErrorMessage": "Select contacts before sending a help message",
+    "search": "Search contacts",
+    "select": "select contacts",
+    "errorMessage": "Select up to 5 contacts",
+    "removeContact": "Remove contact",
+    "tutorial": "Tutorial",
+    "askHelp": "to ask help",
+    "message": "This is my position {{address}}, in {{city}}",
+
+    "skip": "Skip",
+    "press": "Press",
+    "confirm": "Confirm",
+    "ok": "ok",
+    "or": "or"
+
+}

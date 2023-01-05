@@ -1,0 +1,28 @@
+{
+    "emergengy": "Emergenza",
+    "contact": "Contatti",
+
+    "position": "La tua posizione",
+    "emergencyContact": "I tuoi contatti di emergenza",
+
+    "addEmergencyContact": "Puoi aggiungere fino a 5 contatti di emergenza",
+    "addContact": "Aggiungi contatti",
+    "sendSOS": "Invia SOS",
+    "infoButton": "Premendo il pulsante invierai immediatamente un SOS ai contatti selezionati",
+    "modalMessage": "Messaggio inviato correttamente",
+    "modalErrorMessage": "Seleziona contatti prima di inviare un messaggio di aiuto",
+    "search": "Cerca contatti",
+    "select": "seleziona contatti",
+    "errorMessage": "Seleziona massimo 5 contatti",
+    "removeContact": "Rimuovi contatti",
+    "tutorial": "Tutorial",
+    "askHelp": "per chiedere aiuto",
+    "message": "Questa è la mia posizione {{address}}, a {{city}}",
+
+    "skip": "Salta",
+    "press": "Premi",
+    "confirm": "Conferma",
+    "ok": "ok",
+    "or": "o"
+
+}
